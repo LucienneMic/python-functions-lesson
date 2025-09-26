@@ -28,7 +28,8 @@ def greet(name: str) -> str:
     "Hello, Alice!"
     """
     # Your code here
-    pass
+    return f"Hello, {name}!"
+    #pass
 
 
 # 2. Add Numbers Function
@@ -42,7 +43,8 @@ def add_numbers(a: int, b: int) -> int:
     5
     """
     # Your code here
-    pass
+    return a + b
+    #pass
 
 
 # 3. Calculate Area Function
@@ -56,4 +58,5 @@ def calculate_area(width: float, height: float) -> float:
     12
     """
     # Your code here
-    pass
+    return width * height
+    #pass
