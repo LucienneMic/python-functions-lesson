@@ -24,3 +24,46 @@ By the end of this module, learners will be able to:
 
 ## 📂 Repository Structure
 
+``` shell
+
+python-functions-lesson/
+|-- lesson.ipynb # Guided introduction to functions
+|-- exercises.py # Starter code with TODOs
+|-- tests/
+│ └-- test_functions.py # Auto-grader with pytest
+|-- requirements.txt # Dependencies
+└-- README.md # Project documentation
+
+```
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/YOURUSERNAME/python-functions-lesson.git
+   cd python-functions-lesson
+   ```
+
+2. **Install Requirements**
+  ```bash
+  pip install -r requirements.txt\
+  ```
+
+4. **Work through the guided lesson**
+  ```bash
+  jupyter notebook lesson.ipynb
+  ```
+
+5. **Complete the exercises in exercises.py**
+
+6. **Run the auto-grader**
+  ```bash
+  pytest
+  ```
+
+
+
+
+
+
