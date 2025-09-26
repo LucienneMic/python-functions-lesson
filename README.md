@@ -59,7 +59,7 @@ python-functions-lesson/
 
 6. **Run the auto-grader**
   ```bash
-  pytest
+  python3 -m pytest -v
   ```
 
 
